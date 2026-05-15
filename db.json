@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "kevin@gmail.com",
+      "password": "123456"
+    },{
+        "id": 2,
+        "email": "kevin2@gmail.com",
+        "password": "123456"
+    },{
+        "id": 3,
+        "email": "kevin3@gmail.com",
+        "password": "123456"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 80
+    }
+  ]
+}
