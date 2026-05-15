@@ -16,7 +16,7 @@
   ],
 
   "products": [
-    {
+     {
       "id": 1,
       "name": "Laptop",
       "price": 2500
@@ -25,6 +25,17 @@
       "id": 2,
       "name": "Mouse",
       "price": 80
+    },{
+      "id": 3,
+      "name": "Audífonos",
+      "price": 50000,
+      "description": "Alta calidad sonido"
+    },
+    {
+      "id": 4,
+      "name": "Mouse Gamer",
+      "price": 80000,
+      "description": "RGB + precisión"
     }
   ]
 }
